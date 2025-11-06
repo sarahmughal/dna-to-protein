@@ -1,4 +1,5 @@
 # DNA → RNA → Protein: Alignments, Gene Trees, and RNA Folding (Beginner Friendly)
+Streamlit App: https://dna-to-protein-analysis.streamlit.app/
 
 This beginner-level Python project showcases core bioinformatics tasks:
 
