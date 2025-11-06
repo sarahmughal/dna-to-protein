@@ -70,6 +70,7 @@ tests/
   test_fasta.py
   test_align.py
   test_tree.py
+reports/
 .github/workflows/python-tests.yml  # CI with pytest
 ```
 
